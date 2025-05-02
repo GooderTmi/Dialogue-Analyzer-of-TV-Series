@@ -7,7 +7,7 @@
 
 1. 下载项目到本地，在.env文件中填写自己的API Key。
 
-2. 在终端里打开项目目录，并运行"python main.pyw"，弹出页面效果如图。
+2. 在终端里打开项目目录，并运行"python main.pyw"（如有必要需根据提示使用pip工具下载对应的包），弹出页面效果如图。
 
 ![](examples/show1.png)
 
